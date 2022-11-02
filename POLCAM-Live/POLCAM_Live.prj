@@ -84,8 +84,13 @@
       <file>${PROJECT_ROOT}\POLCAM_Live.mlapp</file>
     </fileset.main>
     <fileset.resources />
-    <fileset.package />
-    <fileset.depfun />
+    <fileset.package>
+      <file>${PROJECT_ROOT}\dialog apps</file>
+      <file>${PROJECT_ROOT}\lib</file>
+    </fileset.package>
+    <fileset.depfun>
+      <file>C:\Users\ezrab\Documents\GitHub\POLCAM-SR\POLCAM-SR\dialog apps\DialogAppSettingsDiffractionLimited.mlapp</file>
+    </fileset.depfun>
     <build-deliverables>
       <file location="${PROJECT_ROOT}\POLCAM_Live\for_testing" name="splash.png" optional="false">C:\Users\ezrab\Documents\GitHub\POLCAM-Live\POLCAM-Live\POLCAM_Live\for_testing\splash.png</file>
       <file location="${PROJECT_ROOT}\POLCAM_Live\for_testing" name="POLCAM_Live.exe" optional="false">C:\Users\ezrab\Documents\GitHub\POLCAM-Live\POLCAM-Live\POLCAM_Live\for_testing\POLCAM_Live.exe</file>
