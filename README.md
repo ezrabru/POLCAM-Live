@@ -7,12 +7,12 @@ Software for processing live polarisation camera image processing.
 
 1. MATLAB license (tested and developed using MATLAB R2022a)
 2. MATLAB Toolboxes: Parallel Computing, Optimization, Image processing, Curve fitting, Statistics and Machine Learning
-3. Mac or Windows
+3. Windows only
 
 
 ## Installation
 
-You can install `POLCAM-Live` as a standalone application. [Click here](https://github.com/ezrabru/POLCAM-Live/raw/main/POLCAM-Live/POLCAM_Live/for_redistribution/MyAppInstaller_web.exe) to download the installer.
+You can install `POLCAM-Live` as a standalone application for Windows. [Click here](https://github.com/ezrabru/POLCAM-Live/raw/main/POLCAM-Live/POLCAM_Live/for_redistribution/MyAppInstaller_web.exe) to download the installer.
 
 ## Issues
 
