@@ -10,7 +10,7 @@ Software for processing live polarisation camera image processing.
 
 ## Installation
 
-You can install `POLCAM-Live` as a standalone application using _POLCAM-Live_Installer.exe_.
+You can install `POLCAM-Live` as a standalone application using _POLCAM-Live_Installer.exe_. Download it [here](https://github.com/ezrabru/POLCAM-Live/raw/main/POLCAM-Live_Installer.exe).
 
 ## Issues
 
