@@ -10,10 +10,7 @@ Software for processing live polarisation camera image processing.
 
 ## Installation
 
-You can install `POLCAM-Live` as:
-
-    pip install napari-polcam
-
+You can install `POLCAM-Live` as a standalone application using the fil 'POLCAM-Live_Installer.exe' in the main directory of this repository.
 
 ## Issues
 
