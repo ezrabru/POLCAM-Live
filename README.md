@@ -5,7 +5,7 @@ Software for processing live polarisation camera image processing.
 
 ## Requirements
 
-1. `POLCAM-Live` requires a MATLAB license and was developed and tested using version MATLAB R2022a.
+1. MATLAB license (tested and developed using MATLAB R2022a)
 2. MATLAB Toolboxes: Parallel Computing, Optimization, Image processing, Curve fitting, Statistics and Machine Learning
 3. Mac or Windows
 
