@@ -1,6 +1,6 @@
 # POLCAM-Live
 
-Software for processing live polarisation camera image processing.
+Software for live polarisation camera image processing.
 
 
 ## Requirements
