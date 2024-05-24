@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/560843739.svg)](https://zenodo.org/doi/10.5281/zenodo.10732437)
 
+RRID:SCR_025342
+
 # POLCAM-Live
 
 Software for live polarisation camera image processing.
